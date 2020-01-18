@@ -20,5 +20,6 @@ For more details on the advantages of Spring data JPA, please refer to my blog h
 ### Running program
 
 The below command runs the program            
-`mvn exec:java -Dexec.mainClass="org.experiment.spring_data_jpa_without_springboot.CustomerTest" 
+
+`mvn exec:java -Dexec.mainClass="org.experiment.spring_data_jpa_without_springboot.CustomerTest" `
 
